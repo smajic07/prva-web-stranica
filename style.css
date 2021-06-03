@@ -15,7 +15,7 @@ h1 {
 }
 
 .buffer {
-  height: 10rem;
+  height: 15rem;
 }
 
 .btn {
@@ -39,11 +39,8 @@ h1 {
   padding: 1rem 2rem;
 }
 
-hr {
-  border: solid 2px #06559C;
-  width: 7%;
-  background-color: #06559C;
-  margin-right: auto;
-  margin-left: auto;
-  border-width: 3px;
+.centriraj {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
 }
